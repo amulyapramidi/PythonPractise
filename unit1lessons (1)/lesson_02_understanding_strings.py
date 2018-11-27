@@ -163,7 +163,7 @@ three_things_i_learnt = """
 - strings are immutable - same as java
 - str is the type of string in python
 - negative index is accepted in python
-- substring is now s[0:10]
+- substring is now s[0:10]-> This is known as slicing
 - Raw string needs r'Hello\n' would print Hello\n
 - == has more priority than in
 - formatter can be used as placeholder
