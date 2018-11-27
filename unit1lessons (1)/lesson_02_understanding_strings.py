@@ -170,6 +170,7 @@ three_things_i_learnt = """
 - There is no 'char' in python - only str is the type of string
 - strip() is used to trim the string
 - * on string works as repeat
+- Till the end doesn't require to specify string length str[2:]
 """
 
-time_taken_minutes = 10
+time_taken_minutes = 120
